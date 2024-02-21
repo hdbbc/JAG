@@ -1,0 +1,26 @@
+SETUP DFT PROCESSING PARAMETERS
+No. of Time Series [4 Max]: /1
+Channels to Process[7 Max]: /5
+Table File for Series # 1 : /e:\MachineLearning\P-R\MMF\QH401504.TBL
+Table File for Series # 2 : /e:\MachineLearning\P-R\MMF\
+Table File for Series # 3 : /e:\MachineLearning\P-R\MMF\
+Table File for Series # 4 : /e:\MachineLearning\P-R\MMF\
+Directory of MTrepro SITE : /E:\MachineLearning\P-R\MMF
+Directory of Robust DATA  : /C:\EMT-SW\MTU-RBF
+Channel Names   : / Ex  Ey  Hx  Hy  Hz  Rx  Ry
+Series Chan Map : /101 102 103 104 105 000 000
+Max Num of XPRs : /20
+MTU Type [1=MT,2=EMT,3=LMT,4=MTH,5=MTL,6=MTR] : /4
+Ref Type [1=Loc E, 2=Rem E, 3=Loc H, 4=Rem H] : /3
+Weight Type [1=No Wgt, 2=Rho Var, 3=Coherency]: /2
+Weight Cutoff value: /0
+ALL FCn Frequencies: /Y
+MT Rotation Angle  : /0
+MTCOH Robust [Y|N] : /Y
+Type[1=2:M(Ex,H)*3:M(Ey,H),4=5:P(Ex,H)*6:P(Ey,H),7=M(Hx,R)*M(Hy,R),8=P(H,R)]:/1
+Exit Min COH Value : /.85
+Rejection Fraction of Estimates: /.35
+MTRHO Variance [Y|N]: /Y
+Exit Variance Value: /.75
+Rejection Fraction of Estimates: /.25
+ 
